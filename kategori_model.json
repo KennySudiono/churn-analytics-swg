@@ -1,0 +1,31 @@
+{
+  "kategori": {
+    "End User Category": [
+      "Construction",
+      "Food and beverage",
+      "Manufacturing",
+      "Retail"
+    ],
+    "Product Class": [
+      "AEC Collections",
+      "AutoCAD IST",
+      "AutoCAD LT",
+      "Inventor Professional Standalone",
+      "Navisworks",
+      "Product Design Collection"
+    ],
+    "Stock Keeping Unit": [
+      "02HI1-005995-L403",
+      "02JI1-005995-L403",
+      "057I1-006845-L846",
+      "506G1-001355-L890",
+      "797H1-008730-L479",
+      "C1RK1-002900-L983"
+    ],
+    "Contract Term": [
+      "2-year",
+      "3-Year",
+      "Annual"
+    ]
+  }
+}
